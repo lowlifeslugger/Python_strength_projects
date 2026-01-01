@@ -2,6 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 # but lowlife slugger what if-
 # nothing ever happens
+# if you dont have matplot lib pre-installed on pc, just open command prompt and copy paste
+# pip install matplotlib numpy
+
 while True:
     try:
         a = int(input("Enter starting x value: "))
