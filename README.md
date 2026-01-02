@@ -1,3 +1,4 @@
+HEAD
 # Python Graphing Calculator
 
 A beginner-friendly function plotter built using NumPy and Matplotlib.
@@ -12,3 +13,8 @@ Goal: evolve this into an interactive graphing tool.
 - User input for equations
 - Multiple plots on same graph
 - GUI (Tkinter / PyQt)
+
+# Python_strength_projects
+official code base for any of lowlifesluggers Python projects for skill development and demonstrations
+
+ad12978 (Initial commit)
