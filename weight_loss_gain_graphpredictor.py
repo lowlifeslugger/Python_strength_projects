@@ -22,7 +22,7 @@ while True:
         sex = input("Enter gender (m/f): ").lower().strip()
 
         if sex not in ["m", "f"]:
-            print("Invalid gender input. Try again.")
+            print("look inside your pants and please check again\n otherwise just flip a coin of something")
             continue
 
         weights = [weight]
